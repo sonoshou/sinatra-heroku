@@ -1,6 +1,6 @@
 require 'bundler'
 require 'sinatra'
-require 'sinatra/reloader'
+require 'sinatra/reloader' if development?
 
 require 'haml'
 # require 'sass'
