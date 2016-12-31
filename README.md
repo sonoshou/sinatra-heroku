@@ -1,6 +1,6 @@
 # 概要
 
-最速でherokuにAPIサーバを立てる。  
+HerokuにAPIサーバを立てる。  
 軽量なsinatraフレームワークを使う。
 
 # 前提
@@ -14,9 +14,6 @@
 - heroku CLI
 - ruby
 - `gem install bundler`
-
-`heroku CLI` がインストールされている。
-
 
 # 導入
 
