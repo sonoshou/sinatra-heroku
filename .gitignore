@@ -4,6 +4,5 @@
 *.sass-cache
 /pkg
 /doc/api
-/Gemfile.lock
 /vendor/bundle/
 /.bundle
